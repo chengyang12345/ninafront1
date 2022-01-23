@@ -1,0 +1,15 @@
+.logo{
+    width: 32px;
+    height: 64px;
+    float: left;
+    display: flex;
+    align-items: center;
+    .img-logo{
+        width: 32px;
+        height: 32px;
+    }
+}
+.search{
+    float: right;
+    padding: 12px 0;
+}
